@@ -1,7 +1,7 @@
 # food_recsys_bot
 A recsys for healthy recipes, integrated into a telegram chatbot and focused on persuasive explanations to encourage users to adopt healthier eating habits.
 
-This is an enhanced version of the bot at this [repo](https://github.com/swapUniba/FoodRecSysBot), I have also pushed a .pdf file in which all the updates are listed.
+This is an enhanced version of the bot at this [repo](https://github.com/swapUniba/FoodRecSysBot), I have also pushed a .pdf file in which all the updates are listed. \
 If you want to consult also the experiment for my thesis, you can find it [here](https://github.com/GianFederico/FoodRecSysBot/tree/thesis_poli).
 
 [@food_recsys_bot](https://t.me/food_recsys_bot)
