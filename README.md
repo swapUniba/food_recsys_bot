@@ -12,7 +12,7 @@ Check whether or not all the libraries have been installed, if any problem shows
 The bot necessitates three servers that must be up and running to let it be fully operative:
 - the bot itself -> `python FoodRecommenderSys.py`
 - the recommendation module -> `python food_rs_webservice.py`
-- the explanation module -> `python web_expl.py`
+- the explanation module -> `python web_expl.py` \
 Their names are quite self-explanatory on what they do or handle.
 
 The bot is built on the [python-telegram-bot library v20.7](https://pypi.org/project/python-telegram-bot/20.7/)  and it won't run if the credentials are not set up correctly:
