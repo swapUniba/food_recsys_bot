@@ -32,6 +32,7 @@ Whenever you are satisfied with your profile, you can ask it for a suggestion [_
 
 The bot will give you the most appropriate recipe, but if you are not satisfied with the recipe, you can change it up to two times.
 
-From here you have two possibilities:
+From here you have three possibilities:
 1. You can ask for more information about some aspects of the recipe (such as macros, cost, popularity, health benefits, sustainability, and so on...)
-2. You can ask for a second (or third) suggestion, which will enable the option to ask for a comparison between the latest two recipes recommended. Now you can ask to compare them according to some criteria. 
+2. You can ask for a second (or third) suggestion, which will enable the option to ask for a comparison between the latest two recipes recommended. Now you can ask to compare them according to some criteria.
+3. You can ask for a specific ingredient-based recipe (or you can specify a type of dish)
