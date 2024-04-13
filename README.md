@@ -28,9 +28,9 @@ Just import from the .zip it into your DialogFlow console.
 About the actual use of the bot: \
 Once you have it up and running, you can create your profile with the command `/create`. \
 Follow the instructions, and at the end, if you want to see or modify your profile you can do it with the command `/modify`. \
-Whenever you are satisfied with your profile, you can ask it for a suggestion [_all the words and sentences that trigger an intent are defined in the DialogFlow agent_]. \
+Whenever you are satisfied with your profile, you can ask it for a suggestion [_all the words and sentences that trigger an intent are defined in the DialogFlow agent_]. 
 
-The bot will give you the most appropriate recipe, but if you are not satisfied with the recipe, you can change it up to two times. \
+The bot will give you the most appropriate recipe, but if you are not satisfied with the recipe, you can change it up to two times. 
 
 From here you have three possibilities:
 1. You can ask for more information about some aspects of the recipe (such as macros, cost, popularity, health benefits, sustainability, and so on...)
